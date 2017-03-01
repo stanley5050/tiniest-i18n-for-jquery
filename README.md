@@ -1,0 +1,1 @@
+# tiniest-i18n-for-jquery
